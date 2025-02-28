@@ -1,0 +1,11 @@
+{
+  "name": "tabfinder",
+  "version": "1.0.0",
+  "description": "A Chrome extension to search and switch between open tabs",
+  "scripts": {
+    "generate-icons": "node generate-icons.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+} 
